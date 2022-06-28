@@ -8,6 +8,8 @@ public class PrimeiroPrograma {
 		
 		Gato gato = new Gato("jack","amarelo", 10);
 		
+		gato.setNome("Victor");
+		
 		
 		System.out.println(gato);
 	}
